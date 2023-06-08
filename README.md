@@ -22,6 +22,9 @@
 ![KakaoTalk_20230608_084955321](https://github.com/boyeon0624/boyeon/assets/131341010/b7443194-88bb-4bdd-ac88-23c767c6e768)
 
 ## 동작 시나리오 및 예시
+![화면 캡처 2023-06-08 095510](https://github.com/boyeon0624/boyeon/assets/131341010/e11ddac8-2d4d-466b-9c9f-12fedeb4d5a7)
 
 ## 기대효과
+미리 시럽의 양을 파악 해 여분의 시럽을 준비 할 수 있어 
+일의 능률을 보다 높일 수 있는 기대효과를 가져올 수 있다.
 
