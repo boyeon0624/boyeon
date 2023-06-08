@@ -1,5 +1,5 @@
 ## 라즈베리파이를 활용한 미니 프로젝트
-![다운로드](https://github.com/boyeon0624/boyeon/assets/131341010/969b7561-1863-43ee-a489-e951a1adcab2)
+
 
 
 ## 제목
@@ -16,6 +16,8 @@
 
 ## 완성 작품
 ### 작품 회로도
+![image](https://github.com/boyeon0624/boyeon/assets/131341010/d8ff37b1-f257-4ef0-a0c5-0f4df7101a76)
+
 
 
 ### 작품 사진
